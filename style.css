@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #7CA7EB;
+    font-family: sans-serif;
+}
+
+.container-menu {
+    max-width: 1000px;
+}
